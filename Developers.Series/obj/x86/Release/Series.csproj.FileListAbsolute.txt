@@ -1,0 +1,48 @@
+C:\Users\Victor\Dropbox\TPV04\Series\bin\Release\Series.exe
+C:\Users\Victor\Dropbox\TPV04\Series\bin\Release\Series.pdb
+C:\Users\Victor\Dropbox\TPV04\Series\obj\x86\Release\Series.Series.resources
+C:\Users\Victor\Dropbox\TPV04\Series\obj\x86\Release\Series.Properties.Resources.resources
+C:\Users\Victor\Dropbox\TPV04\Series\obj\x86\Release\Series.csproj.GenerateResource.Cache
+C:\Users\Victor\Dropbox\TPV04\Series\obj\x86\Release\Series.exe
+C:\Users\Victor\Dropbox\TPV04\Series\obj\x86\Release\Series.pdb
+C:\Users\Julios\Documents\TPV04\Series\bin\Release\Series.exe
+C:\Users\Julios\Documents\TPV04\Series\bin\Release\Series.pdb
+C:\Users\Julios\Documents\TPV04\Series\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Julios\Documents\TPV04\Series\obj\x86\Release\Series.Series.resources
+C:\Users\Julios\Documents\TPV04\Series\obj\x86\Release\Series.Properties.Resources.resources
+C:\Users\Julios\Documents\TPV04\Series\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Julios\Documents\TPV04\Series\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Julios\Documents\TPV04\Series\obj\x86\Release\Series.exe
+C:\Users\Julios\Documents\TPV04\Series\obj\x86\Release\Series.pdb
+C:\Users\Victor\Dropbox\TPV 220914\Series\bin\Release\Series.exe
+C:\Users\Victor\Dropbox\TPV 220914\Series\bin\Release\Series.pdb
+C:\Users\Victor\Dropbox\TPV 220914\Series\obj\x86\Release\Series.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Dropbox\TPV 220914\Series\obj\x86\Release\Series.Series.resources
+C:\Users\Victor\Dropbox\TPV 220914\Series\obj\x86\Release\Series.Properties.Resources.resources
+C:\Users\Victor\Dropbox\TPV 220914\Series\obj\x86\Release\Series.csproj.GenerateResource.Cache
+C:\Users\Victor\Dropbox\TPV 220914\Series\obj\x86\Release\Series.exe
+C:\Users\Victor\Dropbox\TPV 220914\Series\obj\x86\Release\Series.pdb
+C:\Users\Victor\Dropbox\TPV 260914\Series\bin\Release\Series.exe
+C:\Users\Victor\Dropbox\TPV 260914\Series\bin\Release\Series.pdb
+C:\Users\Victor\Dropbox\TPV 260914\Series\obj\x86\Release\Series.Series.resources
+C:\Users\Victor\Dropbox\TPV 260914\Series\obj\x86\Release\Series.Properties.Resources.resources
+C:\Users\Victor\Dropbox\TPV 260914\Series\obj\x86\Release\Series.csproj.GenerateResource.Cache
+C:\Users\Victor\Dropbox\TPV 260914\Series\obj\x86\Release\Series.exe
+C:\Users\Victor\Dropbox\TPV 260914\Series\obj\x86\Release\Series.pdb
+C:\Users\Victor\Dropbox\_TPV 20150118\Series\bin\Release\Series.exe
+C:\Users\Victor\Dropbox\_TPV 20150118\Series\bin\Release\Series.pdb
+C:\Users\Victor\Dropbox\_TPV 20150118\Series\obj\x86\Release\Series.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Dropbox\_TPV 20150118\Series\obj\x86\Release\Series.Series.resources
+C:\Users\Victor\Dropbox\_TPV 20150118\Series\obj\x86\Release\Series.Properties.Resources.resources
+C:\Users\Victor\Dropbox\_TPV 20150118\Series\obj\x86\Release\Series.csproj.GenerateResource.Cache
+C:\Users\Victor\Dropbox\_TPV 20150118\Series\obj\x86\Release\Series.exe
+C:\Users\Victor\Dropbox\_TPV 20150118\Series\obj\x86\Release\Series.pdb
+C:\Users\Victor\source\repos\_Ventas 20190127\Series\bin\Release\Series.exe.config
+C:\Users\Victor\source\repos\_Ventas 20190127\Series\bin\Release\Series.exe
+C:\Users\Victor\source\repos\_Ventas 20190127\Series\bin\Release\Series.pdb
+C:\Users\Victor\source\repos\_Ventas 20190127\Series\obj\x86\Release\Series.Series.resources
+C:\Users\Victor\source\repos\_Ventas 20190127\Series\obj\x86\Release\Series.Properties.Resources.resources
+C:\Users\Victor\source\repos\_Ventas 20190127\Series\obj\x86\Release\Series.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\_Ventas 20190127\Series\obj\x86\Release\Series.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\_Ventas 20190127\Series\obj\x86\Release\Series.exe
+C:\Users\Victor\source\repos\_Ventas 20190127\Series\obj\x86\Release\Series.pdb

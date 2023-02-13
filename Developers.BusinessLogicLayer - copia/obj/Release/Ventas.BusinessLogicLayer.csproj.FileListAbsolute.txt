@@ -1,0 +1,2 @@
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\obj\Release\Ventas.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\obj\Release\Ventas.BusinessLogicLayer.csprojAssemblyReference.cache

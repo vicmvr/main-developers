@@ -1,0 +1,2 @@
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.DataAccessLayer\obj\Release\Ventas.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.DataAccessLayer\obj\Release\Ventas.DataAccessLayer.csproj.CoreCompileInputs.cache

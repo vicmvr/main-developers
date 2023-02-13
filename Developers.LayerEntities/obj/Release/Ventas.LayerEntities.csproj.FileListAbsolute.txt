@@ -1,0 +1,5 @@
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\bin\Release\Ventas.LayerEntities.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\bin\Release\Ventas.LayerEntities.pdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\obj\Release\Ventas.LayerEntities.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\obj\Release\Ventas.LayerEntities.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\obj\Release\Ventas.LayerEntities.pdb

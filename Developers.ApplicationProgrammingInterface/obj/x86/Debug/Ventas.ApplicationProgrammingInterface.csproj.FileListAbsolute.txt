@@ -1,0 +1,236 @@
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.Forms.FrmBusquedaCorte.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.Forms.FrmBusquedaProductos.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.Forms.FrmCambiarDepto.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.Forms.FrmCodigoDeBarrasCODE39.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmEdicionProveedores.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmProveedores.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmEdicionExistencias.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmInventarios.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmNuevaCaja.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmUnidades.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmSucursal.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmNumeroDeSerie.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmCodigoDeBarras.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmEdicionUsuarios.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmUsuarios.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmHistorialVentas.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmAcercade.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmBuscarProducto.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmDepartamento.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmEdicionDepartamento.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmEntradas.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmImpresora.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmProductoSinInv.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmCobrar.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmModificarCantidad.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmSalidas.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmConfiguracion.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmInstalarBD.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmVentas.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmAbrirCorte.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmCerrarCorte.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmClientes.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmConexion.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmEdicionSucursal.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmEdicionClientes.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmLogin.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmNuevaTasa.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmProductos.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmSplash.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmTasas.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.FrmTipoDeCambio.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.Properties.Resources.resources
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.exe.licenses
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\fdb.fdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.exe.config
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.exe.manifest
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.application
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.exe
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.pdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\MySql.Data.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Google.Protobuf.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\MySql.Data.xml
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.TrustInfo.xml
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.exe.manifest
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.application
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.csproj.CopyComplete
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.exe
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.pdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Google.Protobuf.xml
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Ventas.BusinessLogicLayer.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Ventas.LayerEntities.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Ventas.DataAccessLayer.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Ventas.BusinessLogicLayer.pdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Ventas.BusinessLogicLayer.dll.config
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Ventas.LayerEntities.pdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Ventas.LayerEntities.dll.config
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Ventas.DataAccessLayer.pdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas\bin\Debug\Ventas.DataAccessLayer.dll.config
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\fdb.fdb
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.exe.config
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.exe.manifest
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.application
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.exe
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.pdb
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Google.Protobuf.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\MySql.Data.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Ventas.BusinessLogicLayer.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Ventas.LayerEntities.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Ventas.DataAccessLayer.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Ventas.BusinessLogicLayer.pdb
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Ventas.BusinessLogicLayer.dll.config
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Ventas.LayerEntities.pdb
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Ventas.LayerEntities.dll.config
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Google.Protobuf.xml
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\MySql.Data.xml
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Ventas.DataAccessLayer.pdb
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\bin\Debug\Ventas.DataAccessLayer.dll.config
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.Forms.FrmBusquedaCorte.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.Forms.FrmBusquedaProductos.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.Forms.FrmCambiarDepto.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.Forms.FrmCodigoDeBarrasCODE39.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmEdicionProveedores.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmProveedores.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmEdicionExistencias.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmInventarios.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmNuevaCaja.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmUnidades.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmSucursal.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmNumeroDeSerie.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmCodigoDeBarras.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmEdicionUsuarios.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmUsuarios.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmHistorialVentas.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmAcercade.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmBuscarProducto.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmDepartamento.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmEdicionDepartamento.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmEntradas.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmImpresora.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmProductoSinInv.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmCobrar.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmModificarCantidad.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmSalidas.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmConfiguracion.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmInstalarBD.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmVentas.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmAbrirCorte.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmCerrarCorte.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmClientes.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmConexion.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmEdicionSucursal.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmEdicionClientes.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmLogin.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmNuevaTasa.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmProductos.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmSplash.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmTasas.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmTipoDeCambio.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.Properties.Resources.resources
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.csproj.GenerateResource.cache
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.exe.licenses
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.TrustInfo.xml
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.exe.manifest
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.application
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.csproj.CopyComplete
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.exe
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\fdb.fdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.exe.config
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.exe.manifest
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.application
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.exe
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Ventas.ApplicationProgrammingInterface.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Google.Protobuf.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\MySql.Data.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Ventas.BusinessLogicLayer.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Ventas.LayerEntities.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Ventas.DataAccessLayer.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Ventas.BusinessLogicLayer.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Ventas.BusinessLogicLayer.dll.config
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Ventas.LayerEntities.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Ventas.LayerEntities.dll.config
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Google.Protobuf.xml
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\MySql.Data.xml
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Ventas.DataAccessLayer.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\Ventas.DataAccessLayer.dll.config
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.csproj.AssemblyReference.cache
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.Forms.FrmBusquedaCorte.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.Forms.FrmBusquedaProductos.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.Forms.FrmCambiarDepto.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.Forms.FrmCodigoDeBarrasCODE39.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmEdicionProveedores.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmProveedores.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmEdicionExistencias.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmInventarios.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmNuevaCaja.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmUnidades.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmSucursal.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmNumeroDeSerie.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmCodigoDeBarras.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmEdicionUsuarios.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmUsuarios.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmHistorialVentas.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmAcercade.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmBuscarProducto.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmDepartamento.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmEdicionDepartamento.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmEntradas.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmImpresora.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmProductoSinInv.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmCobrar.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmModificarCantidad.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmSalidas.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmConfiguracion.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmInstalarBD.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmVentas.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmAbrirCorte.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmCerrarCorte.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmClientes.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmConexion.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmEdicionSucursal.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmEdicionClientes.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmLogin.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmNuevaTasa.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmProductos.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmSplash.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmTasas.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.FrmTipoDeCambio.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.Properties.Resources.resources
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.csproj.GenerateResource.cache
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.exe.licenses
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.csproj.CoreCompileInputs.cache
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.TrustInfo.xml
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.exe.manifest
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.application
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.csproj.CopyComplete
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.exe
+D:\00 S O U R C E\_Ventas 20190206\Ventas\obj\x86\Debug\Ventas.ApplicationProgrammingInterface.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\ZstdNet.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\BouncyCastle.Crypto.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\System.Memory.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\System.Buffers.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\K4os.Compression.LZ4.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\K4os.Hash.xxHash.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas\bin\Debug\System.Numerics.Vectors.dll

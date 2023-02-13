@@ -1,0 +1,16 @@
+C:\Users\Victor\Dropbox\TPV04\Series\bin\Debug\Series.exe
+C:\Users\Victor\Dropbox\TPV04\Series\bin\Debug\Series.pdb
+C:\Users\Victor\Dropbox\TPV04\Series\obj\x86\Debug\Series.Series.resources
+C:\Users\Victor\Dropbox\TPV04\Series\obj\x86\Debug\Series.Properties.Resources.resources
+C:\Users\Victor\Dropbox\TPV04\Series\obj\x86\Debug\Series.csproj.GenerateResource.Cache
+C:\Users\Victor\Dropbox\TPV04\Series\obj\x86\Debug\Series.exe
+C:\Users\Victor\Dropbox\TPV04\Series\obj\x86\Debug\Series.pdb
+C:\Users\Julios\Documents\TPV04\Series\bin\Debug\Series.exe
+C:\Users\Julios\Documents\TPV04\Series\bin\Debug\Series.pdb
+C:\Users\Julios\Documents\TPV04\Series\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Julios\Documents\TPV04\Series\obj\x86\Debug\Series.Series.resources
+C:\Users\Julios\Documents\TPV04\Series\obj\x86\Debug\Series.Properties.Resources.resources
+C:\Users\Julios\Documents\TPV04\Series\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Julios\Documents\TPV04\Series\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Julios\Documents\TPV04\Series\obj\x86\Debug\Series.exe
+C:\Users\Julios\Documents\TPV04\Series\obj\x86\Debug\Series.pdb

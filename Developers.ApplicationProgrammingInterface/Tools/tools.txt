@@ -1,0 +1,103 @@
+﻿
+cambiar nombre del campo idzona-colonia
+agregar campo Estado en ventas y ventascredito
+
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////
+    Thread procesaConsultas;//declarado en la clase
+	public void nombre()
+	{
+	procesaConsultas = new Thread(new ThreadStart(HiloDeConsultas));
+    procesaConsultas.Start();
+    }
+    public void HiloDeConsultas()
+    {
+	}
+
+<add name="Ventas.Properties.Settings.ConnectionString" connectionString="server=201.159.21.23;User Id=netmyn;database=Ventas;password=7977mYn; Min Pool Size=12; Max Pool Size=24; Connection Lifetime=100; Connect Timeout=15;"
+<add name="Ventas.Properties.Settings.ConnectionString" connectionString="server=sldevelopers.sytes.net;User Id=Ventas;database=Ventas;password=Ventas1"
+<add name="Ventas.Properties.Settings.ConnectionString" connectionString="server=192.168.1.71;User Id=Ventas;database=Ventas;password=Ventas1"
+    
+MessageBox.Show("Guardado con éxito", "Guardado!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+MessageBox.Show("Guardado con éxito", "Atención!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+max_allowed_packet = 3M
+
+////
+ static MySqlConnection NuevaConexion()
+    {
+        String connstring;
+        Configuration conf = ConfigurationManager.OpenExeConfiguration(Application.ExecutablePath);
+        ConnectionStringsSection css = conf.ConnectionStrings;
+        connstring = css.ConnectionStrings["Ventas.Properties.Settings.ConnectionString"].ConnectionString;
+
+        var conexion = new MySqlConnection(connstring);
+        try
+        {
+            conexion.Open();
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Error en la conexion! "+ex, "Error de conexion!", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+        return conexion;
+    }
+//////
+        private DialogResult respnuevo = new DialogResult();
+
+
+		///////////////////////
+		Program.Caja = tabla.Rows[0][1].ToString();
+                    Program.Sucursal = Convert.ToInt32(tabla.Rows[0][2]);
+
+        
+
+
+		//////////////////
+
+		 try
+            {
+            //REVISA
+            DataTable tabla = new DataTable();
+            String peticion = "SELECT * FROM tipodecambio WHERE fecha ='" + fecha + "'";
+            
+                using (MySqlConnection conexion = NuevaConexion())
+                using (MySqlDataAdapter adaptador = new MySqlDataAdapter(peticion, conexion))
+                adaptador.Fill(tabla);
+                if (tabla.Rows.Count > 0)
+                {
+                    lblTipoDeCambio.Text = String.Format("$ {0:0.00}", Convert.ToDouble(tabla.Rows[0][1]));
+                    return true;   
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error " + ex);
+            }
+            return false;       
+
+
+private void BtnSave_Click(object sender, EventArgs e)
+{
+    Regex reg = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$");
+    if (!reg.IsMatch(textBox1.Text))
+    {
+        errorProvider1.SetError(textBox1, "Email not valid");
+    }
+ 
+    else
+    {
+        errorProvider1.Dispose();
+    }
+}

@@ -1,0 +1,12 @@
+C:\wamp64\www\main-developers\Developers.LayerEntities\bin\Release\Developers.LayerEntities.dll.config
+C:\wamp64\www\main-developers\Developers.LayerEntities\bin\Release\Developers.LayerEntities.dll
+C:\wamp64\www\main-developers\Developers.LayerEntities\bin\Release\Developers.LayerEntities.pdb
+C:\wamp64\www\main-developers\Developers.LayerEntities\bin\Release\FirebirdSql.Data.FirebirdClient.dll
+C:\wamp64\www\main-developers\Developers.LayerEntities\bin\Release\Google.Protobuf.dll
+C:\wamp64\www\main-developers\Developers.LayerEntities\bin\Release\FirebirdSql.Data.FirebirdClient.pdb
+C:\wamp64\www\main-developers\Developers.LayerEntities\bin\Release\Google.Protobuf.xml
+C:\wamp64\www\main-developers\Developers.LayerEntities\obj\Release\Developers.LayerEntities.csproj.AssemblyReference.cache
+C:\wamp64\www\main-developers\Developers.LayerEntities\obj\Release\Developers.LayerEntities.csproj.CoreCompileInputs.cache
+C:\wamp64\www\main-developers\Developers.LayerEntities\obj\Release\Developers.LayerEntities.csproj.CopyComplete
+C:\wamp64\www\main-developers\Developers.LayerEntities\obj\Release\Developers.LayerEntities.dll
+C:\wamp64\www\main-developers\Developers.LayerEntities\obj\Release\Developers.LayerEntities.pdb

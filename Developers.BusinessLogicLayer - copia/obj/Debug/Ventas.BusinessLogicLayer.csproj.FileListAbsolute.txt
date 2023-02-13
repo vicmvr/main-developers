@@ -1,0 +1,68 @@
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\Ventas.BusinessLogicLayer.dll.config
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\Ventas.BusinessLogicLayer.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\Ventas.BusinessLogicLayer.pdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\MySql.Data.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\Ventas.DataAccessLayer.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\Ventas.LayerEntities.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\Ventas.DataAccessLayer.pdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\Ventas.DataAccessLayer.dll.config
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\Ventas.LayerEntities.pdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\Ventas.LayerEntities.dll.config
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\bin\Debug\MySql.Data.xml
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.csproj.CopyComplete
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.pdb
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.pdb
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.BusinessLogicLayer.dll.config
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.BusinessLogicLayer.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.BusinessLogicLayer.pdb
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Google.Protobuf.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\MySql.Data.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.DataAccessLayer.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.LayerEntities.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.DataAccessLayer.pdb
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.DataAccessLayer.dll.config
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.LayerEntities.pdb
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.LayerEntities.dll.config
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Google.Protobuf.xml
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\MySql.Data.xml
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.csproj.CopyComplete
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.BusinessLogicLayer.dll.config
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.BusinessLogicLayer.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.BusinessLogicLayer.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Google.Protobuf.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\MySql.Data.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.DataAccessLayer.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.LayerEntities.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.DataAccessLayer.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.DataAccessLayer.dll.config
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.LayerEntities.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Ventas.LayerEntities.dll.config
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\Google.Protobuf.xml
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\MySql.Data.xml
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.csproj.CopyComplete
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\obj\Debug\Ventas.BusinessLogicLayer.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\ZstdNet.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\BouncyCastle.Crypto.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\System.Memory.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\System.Buffers.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\K4os.Compression.LZ4.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\K4os.Hash.xxHash.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.BusinessLogicLayer\bin\Debug\System.Numerics.Vectors.dll

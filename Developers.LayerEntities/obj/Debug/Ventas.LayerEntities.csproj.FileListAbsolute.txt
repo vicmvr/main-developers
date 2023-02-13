@@ -1,0 +1,40 @@
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\bin\Debug\Ventas.LayerEntities.dll.config
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\bin\Debug\Ventas.LayerEntities.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\bin\Debug\Ventas.LayerEntities.pdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\bin\Debug\Google.Protobuf.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\bin\Debug\MySql.Data.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\bin\Debug\Google.Protobuf.xml
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\bin\Debug\MySql.Data.xml
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.csproj.CopyComplete
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.dll
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.pdb
+C:\Users\Victor\source\repos\_Ventas 20190131\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\Ventas.LayerEntities.dll.config
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\Ventas.LayerEntities.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\Ventas.LayerEntities.pdb
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\Google.Protobuf.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\MySql.Data.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\Google.Protobuf.xml
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\MySql.Data.xml
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.csprojAssemblyReference.cache
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.csproj.CoreCompileInputs.cache
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.csproj.CopyComplete
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.dll
+C:\Users\Victor\source\repos\_Ventas 20190206\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\Ventas.LayerEntities.dll.config
+D:\00 S O U R C E\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\Ventas.LayerEntities.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\Ventas.LayerEntities.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\Google.Protobuf.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
+D:\00 S O U R C E\_Ventas 20190206\Ventas.LayerEntities\bin\Debug\Google.Protobuf.xml
+D:\00 S O U R C E\_Ventas 20190206\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.csproj.AssemblyReference.cache
+D:\00 S O U R C E\_Ventas 20190206\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.csproj.CoreCompileInputs.cache
+D:\00 S O U R C E\_Ventas 20190206\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.csproj.CopyComplete
+D:\00 S O U R C E\_Ventas 20190206\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.dll
+D:\00 S O U R C E\_Ventas 20190206\Ventas.LayerEntities\obj\Debug\Ventas.LayerEntities.pdb
