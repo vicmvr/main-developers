@@ -27,7 +27,7 @@ namespace Developers
                         Login.ShowDialog();
                         if (Login.DialogResult == DialogResult.OK)
                         {
-                            Application.Run(new FrmVentas());
+                            Application.Run(new FrmMain());
                         }
                     
             }

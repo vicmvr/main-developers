@@ -59,7 +59,6 @@ C:\wamp64\www\main-developers\Developers.ApplicationProgrammingInterface\obj\x86
 C:\wamp64\www\main-developers\Developers.ApplicationProgrammingInterface\obj\x86\Debug\Developers.FrmSalidas.resources
 C:\wamp64\www\main-developers\Developers.ApplicationProgrammingInterface\obj\x86\Debug\Developers.FrmConfiguracion.resources
 C:\wamp64\www\main-developers\Developers.ApplicationProgrammingInterface\obj\x86\Debug\Developers.FrmInstalarBD.resources
-C:\wamp64\www\main-developers\Developers.ApplicationProgrammingInterface\obj\x86\Debug\Developers.FrmVentas.resources
 C:\wamp64\www\main-developers\Developers.ApplicationProgrammingInterface\obj\x86\Debug\Developers.FrmAbrirCorte.resources
 C:\wamp64\www\main-developers\Developers.ApplicationProgrammingInterface\obj\x86\Debug\Developers.FrmCerrarCorte.resources
 C:\wamp64\www\main-developers\Developers.ApplicationProgrammingInterface\obj\x86\Debug\Developers.FrmClientes.resources
@@ -82,3 +81,4 @@ C:\wamp64\www\main-developers\Developers.ApplicationProgrammingInterface\obj\x86
 C:\wamp64\www\main-developers\Developers.ApplicationProgrammingInterface\obj\x86\Debug\Developers.ApplicationProgrammingInterface.csproj.CopyComplete
 C:\wamp64\www\main-developers\Developers.ApplicationProgrammingInterface\obj\x86\Debug\Developers.ApplicationProgrammingInterface.exe
 C:\wamp64\www\main-developers\Developers.ApplicationProgrammingInterface\obj\x86\Debug\Developers.ApplicationProgrammingInterface.pdb
+C:\wamp64\www\main-developers\Developers.ApplicationProgrammingInterface\obj\x86\Debug\Developers.FrmMain.resources

@@ -17,9 +17,9 @@ using System.Timers;
 
 namespace Developers
 {
-    public partial class FrmVentas : Form
+    public partial class FrmMain : Form
     {
-        public FrmVentas()
+        public FrmMain()
         {
             InitializeComponent();
         }
@@ -1076,7 +1076,7 @@ namespace Developers
             peticion = "SELECT productos.ID_Producto,productos.Descripcion,productos.PrecioContado,productos.Existencias,productos.Impuesto,productos.Descuento FROM productos WHERE productos.ID_Producto='" + txtCodigoProducto.Text + "';";
             try
             {
-                using (MySqlConnection conexion = new MySqlConnection(Conexion.NuevaConexion()))
+                using (MySqlConnection conexion = Conexion.ConexionMySQL())
                 {
                     conexion.Open();
                     MySqlDataAdapter adaptador = new MySqlDataAdapter(peticion, conexion);

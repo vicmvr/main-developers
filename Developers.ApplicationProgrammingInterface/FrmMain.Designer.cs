@@ -1,6 +1,6 @@
 ﻿namespace Developers
 {
-    partial class FrmVentas
+    partial class FrmMain
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmVentas));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmMain));
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
@@ -152,7 +152,7 @@
             this.venderToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("venderToolStripMenuItem.Image")));
             this.venderToolStripMenuItem.Name = "venderToolStripMenuItem";
             this.venderToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F5;
-            this.venderToolStripMenuItem.Size = new System.Drawing.Size(171, 22);
+            this.venderToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.venderToolStripMenuItem.Text = "&Ventas";
             this.venderToolStripMenuItem.Click += new System.EventHandler(this.venderToolStripMenuItem_Click);
             // 
@@ -161,7 +161,7 @@
             this.cobrarToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("cobrarToolStripMenuItem.Image")));
             this.cobrarToolStripMenuItem.Name = "cobrarToolStripMenuItem";
             this.cobrarToolStripMenuItem.ShortcutKeys = System.Windows.Forms.Keys.F12;
-            this.cobrarToolStripMenuItem.Size = new System.Drawing.Size(171, 22);
+            this.cobrarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.cobrarToolStripMenuItem.Text = "Cobrar";
             this.cobrarToolStripMenuItem.Click += new System.EventHandler(this.cobrarToolStripMenuItem_Click);
             // 
@@ -173,7 +173,7 @@
             this.busquedaDeCortesToolStripMenuItem});
             this.finalizarVentaToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("finalizarVentaToolStripMenuItem.Image")));
             this.finalizarVentaToolStripMenuItem.Name = "finalizarVentaToolStripMenuItem";
-            this.finalizarVentaToolStripMenuItem.Size = new System.Drawing.Size(171, 22);
+            this.finalizarVentaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.finalizarVentaToolStripMenuItem.Text = "&Corte";
             // 
             // abrirToolStripMenuItem
@@ -204,22 +204,21 @@
             // 
             this.historialDeVentasToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("historialDeVentasToolStripMenuItem.Image")));
             this.historialDeVentasToolStripMenuItem.Name = "historialDeVentasToolStripMenuItem";
-            this.historialDeVentasToolStripMenuItem.Size = new System.Drawing.Size(171, 22);
+            this.historialDeVentasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.historialDeVentasToolStripMenuItem.Text = "&Historial de ventas";
-            this.historialDeVentasToolStripMenuItem.Visible = false;
             this.historialDeVentasToolStripMenuItem.Click += new System.EventHandler(this.historialDeVentasToolStripMenuItem_Click);
             // 
             // toolStripSeparator2
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(168, 6);
+            this.toolStripSeparator2.Size = new System.Drawing.Size(177, 6);
             // 
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("salirToolStripMenuItem.Image")));
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
             this.salirToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Alt | System.Windows.Forms.Keys.F4)));
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(171, 22);
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.salirToolStripMenuItem.Text = "&Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
             // 
@@ -253,7 +252,6 @@
             this.departamentosToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.D)));
             this.departamentosToolStripMenuItem.Size = new System.Drawing.Size(217, 22);
             this.departamentosToolStripMenuItem.Text = "Departamentos";
-            this.departamentosToolStripMenuItem.Visible = false;
             this.departamentosToolStripMenuItem.Click += new System.EventHandler(this.toolStripDepartamentos_Click);
             // 
             // comprasToolStripMenuItem
@@ -263,7 +261,6 @@
             this.comprasToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.M)));
             this.comprasToolStripMenuItem.Size = new System.Drawing.Size(217, 22);
             this.comprasToolStripMenuItem.Text = "Compras";
-            this.comprasToolStripMenuItem.Visible = false;
             // 
             // proveedoresToolStripMenuItem1
             // 
@@ -272,7 +269,6 @@
             this.proveedoresToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.V)));
             this.proveedoresToolStripMenuItem1.Size = new System.Drawing.Size(217, 22);
             this.proveedoresToolStripMenuItem1.Text = "Proveedores";
-            this.proveedoresToolStripMenuItem1.Visible = false;
             // 
             // reporteProductosToolStripMenuItem
             // 
@@ -280,7 +276,6 @@
             this.reporteProductosToolStripMenuItem.Name = "reporteProductosToolStripMenuItem";
             this.reporteProductosToolStripMenuItem.Size = new System.Drawing.Size(217, 22);
             this.reporteProductosToolStripMenuItem.Text = "Imprimir &lista de productos";
-            this.reporteProductosToolStripMenuItem.Visible = false;
             this.reporteProductosToolStripMenuItem.Click += new System.EventHandler(this.reportesToolStripMenuItem_Click);
             // 
             // codigoDeBarrasToolStripMenuItem
@@ -289,7 +284,6 @@
             this.codigoDeBarrasToolStripMenuItem.Name = "codigoDeBarrasToolStripMenuItem";
             this.codigoDeBarrasToolStripMenuItem.Size = new System.Drawing.Size(217, 22);
             this.codigoDeBarrasToolStripMenuItem.Text = "&EAN13";
-            this.codigoDeBarrasToolStripMenuItem.Visible = false;
             this.codigoDeBarrasToolStripMenuItem.Click += new System.EventHandler(this.codigoDeBarrasToolStripMenuItem_Click);
             // 
             // generarCodigoDeBarrasCODE39ToolStripMenuItem
@@ -298,7 +292,6 @@
             this.generarCodigoDeBarrasCODE39ToolStripMenuItem.Name = "generarCodigoDeBarrasCODE39ToolStripMenuItem";
             this.generarCodigoDeBarrasCODE39ToolStripMenuItem.Size = new System.Drawing.Size(217, 22);
             this.generarCodigoDeBarrasCODE39ToolStripMenuItem.Text = "CODE39";
-            this.generarCodigoDeBarrasCODE39ToolStripMenuItem.Visible = false;
             this.generarCodigoDeBarrasCODE39ToolStripMenuItem.Click += new System.EventHandler(this.generarCodigoDeBarrasCODE39ToolStripMenuItem_Click);
             // 
             // administracionToolStripMenuItem
@@ -321,7 +314,6 @@
             this.cambiarUsuarioToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.U)));
             this.cambiarUsuarioToolStripMenuItem.Size = new System.Drawing.Size(203, 22);
             this.cambiarUsuarioToolStripMenuItem.Text = "Cambiar us&uario";
-            this.cambiarUsuarioToolStripMenuItem.Visible = false;
             this.cambiarUsuarioToolStripMenuItem.Click += new System.EventHandler(this.cambiarUsuarioToolStripMenuItem_Click);
             // 
             // empleadosToolStripMenuItem
@@ -331,7 +323,6 @@
             this.empleadosToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.E)));
             this.empleadosToolStripMenuItem.Size = new System.Drawing.Size(203, 22);
             this.empleadosToolStripMenuItem.Text = "Usu&arios";
-            this.empleadosToolStripMenuItem.Visible = false;
             this.empleadosToolStripMenuItem.Click += new System.EventHandler(this.empleadosToolStripMenuItem_Click);
             // 
             // clientesToolStripMenuItem1
@@ -341,7 +332,6 @@
             this.clientesToolStripMenuItem1.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.C)));
             this.clientesToolStripMenuItem1.Size = new System.Drawing.Size(203, 22);
             this.clientesToolStripMenuItem1.Text = "Clientes";
-            this.clientesToolStripMenuItem1.Visible = false;
             // 
             // tasaToolStripMenuItem
             // 
@@ -350,7 +340,6 @@
             this.tasaToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.I)));
             this.tasaToolStripMenuItem.Size = new System.Drawing.Size(203, 22);
             this.tasaToolStripMenuItem.Text = "&Impuestos";
-            this.tasaToolStripMenuItem.Visible = false;
             this.tasaToolStripMenuItem.Click += new System.EventHandler(this.tasaToolStripMenuItem_Click);
             // 
             // reportesToolStripMenuItem
@@ -360,7 +349,6 @@
             this.reportesToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.R)));
             this.reportesToolStripMenuItem.Size = new System.Drawing.Size(203, 22);
             this.reportesToolStripMenuItem.Text = "&Reportes";
-            this.reportesToolStripMenuItem.Visible = false;
             // 
             // configuracionToolStripMenuItem
             // 
@@ -369,7 +357,6 @@
             this.configuracionToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.G)));
             this.configuracionToolStripMenuItem.Size = new System.Drawing.Size(203, 22);
             this.configuracionToolStripMenuItem.Text = "&Configuración";
-            this.configuracionToolStripMenuItem.Visible = false;
             this.configuracionToolStripMenuItem.Click += new System.EventHandler(this.configuracionToolStripMenuItem_Click);
             // 
             // ayudaToolStripMenuItem
@@ -389,9 +376,8 @@
             this.ayudaToolStripMenuItem1.Image = ((System.Drawing.Image)(resources.GetObject("ayudaToolStripMenuItem1.Image")));
             this.ayudaToolStripMenuItem1.Name = "ayudaToolStripMenuItem1";
             this.ayudaToolStripMenuItem1.ShortcutKeys = System.Windows.Forms.Keys.F1;
-            this.ayudaToolStripMenuItem1.Size = new System.Drawing.Size(177, 22);
+            this.ayudaToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
             this.ayudaToolStripMenuItem1.Text = "A&yuda";
-            this.ayudaToolStripMenuItem1.Visible = false;
             this.ayudaToolStripMenuItem1.Click += new System.EventHandler(this.ayudaToolStripMenuItem1_Click);
             // 
             // sitioWebToolStripMenuItem
@@ -399,21 +385,21 @@
             this.sitioWebToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("sitioWebToolStripMenuItem.Image")));
             this.sitioWebToolStripMenuItem.Name = "sitioWebToolStripMenuItem";
             this.sitioWebToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.W)));
-            this.sitioWebToolStripMenuItem.Size = new System.Drawing.Size(177, 22);
+            this.sitioWebToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.sitioWebToolStripMenuItem.Text = "Sitio &Web";
             this.sitioWebToolStripMenuItem.Click += new System.EventHandler(this.sitioWebToolStripMenuItem_Click);
             // 
             // toolStripSeparator6
             // 
             this.toolStripSeparator6.Name = "toolStripSeparator6";
-            this.toolStripSeparator6.Size = new System.Drawing.Size(174, 6);
+            this.toolStripSeparator6.Size = new System.Drawing.Size(177, 6);
             // 
             // acercaDeToolStripMenuItem
             // 
             this.acercaDeToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("acercaDeToolStripMenuItem.Image")));
             this.acercaDeToolStripMenuItem.Name = "acercaDeToolStripMenuItem";
             this.acercaDeToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.A)));
-            this.acercaDeToolStripMenuItem.Size = new System.Drawing.Size(177, 22);
+            this.acercaDeToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.acercaDeToolStripMenuItem.Text = "Acerca &de...";
             this.acercaDeToolStripMenuItem.Click += new System.EventHandler(this.acercaDeToolStripMenuItem_Click);
             // 
@@ -421,7 +407,7 @@
             // 
             this.ActivarProductoToolStripMenuItem.Image = ((System.Drawing.Image)(resources.GetObject("ActivarProductoToolStripMenuItem.Image")));
             this.ActivarProductoToolStripMenuItem.Name = "ActivarProductoToolStripMenuItem";
-            this.ActivarProductoToolStripMenuItem.Size = new System.Drawing.Size(177, 22);
+            this.ActivarProductoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             this.ActivarProductoToolStripMenuItem.Text = "&Activar producto";
             this.ActivarProductoToolStripMenuItem.Click += new System.EventHandler(this.claveDeRegistroToolStripMenuItem_Click);
             // 
@@ -539,8 +525,8 @@
             this.dgv.AllowUserToDeleteRows = false;
             this.dgv.AllowUserToResizeColumns = false;
             this.dgv.AllowUserToResizeRows = false;
-            this.dgv.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)
-            | System.Windows.Forms.AnchorStyles.Left)
+            this.dgv.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.dgv.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
             this.dgv.CausesValidation = false;
@@ -860,7 +846,7 @@
             this.TimerHora.Enabled = true;
             this.TimerHora.Tick += new System.EventHandler(this.TimerHora_Tick);
             // 
-            // FrmVentas
+            // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -874,9 +860,9 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.IsMdiContainer = true;
             this.MinimumSize = new System.Drawing.Size(800, 712);
-            this.Name = "FrmVentas";
+            this.Name = "FrmMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Sistema Ventas";
+            this.Text = "Main - System";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FrmVentas_FormClosing);
             this.Load += new System.EventHandler(this.FrmVentas_Load);
